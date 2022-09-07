@@ -28,11 +28,32 @@
 
 
 ## Github Stats  
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=dzoni99&show_icons=true&theme=cobalt2" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzoni99&layout=compact&theme=cobalt2" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=dzoni99&show_icons=true&theme=cobalt2" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzoni99&layout=compact&theme=cobalt2" />
  
+## Interested in
+<table><tr><td valign="top">
 
- <br/>
-<img align="right"  src="https://user-images.githubusercontent.com/111071356/188767862-0ca179cb-352c-4a01-896a-9d9940c993db.gif"
+- IT  
+  
 
+- Games  
+  
+
+- Training  
+
+
+</td><td valign="top">
+
+- Music  
+  
+
+- Sports  
+  
+
+- Movies and series  
+
+
+</td></tr></table>  
+
+<br/>  
  
- <br />
