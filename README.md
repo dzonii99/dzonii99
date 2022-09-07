@@ -9,6 +9,10 @@
 
 <br/>  
 
+## Git stats
+
+<img height=200 width=200 src="https://github-readme-stats.vercel.app/api?username=dzonii99&show_icons=true&theme=cobalt2"/>
+<img height=200 width=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzonii99&layout=compact&theme=cobalt2"/>
 
 ## Connect with me  
 <div align="center">
