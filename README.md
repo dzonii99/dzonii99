@@ -10,10 +10,13 @@
 <br/>  
 
 ## Git stats
-<div style="display: flex; flex-direction: row;">
+
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=dzonii99&show_icons=true&theme=cobalt2"/>
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzonii99&layout=compact&theme=cobalt2"/>
-</div>
+
+## Streak 🔥
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dzonii99&theme=yeblu"/>
   
 ## Connect with me  
 <div align="center">
