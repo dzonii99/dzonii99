@@ -3,22 +3,9 @@
   
 
   
-  ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-  
-<div align="center">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="100" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+## My Skill Set  
+ 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="150" height="130"/>
 
 <br/>  
 
@@ -41,18 +28,11 @@
 
 
 ## Github Stats  
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=dzoni99&show_icons=true&theme=cobalt2" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzoni99&layout=compact&theme=cobalt2" /></a>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=dzoni99&show_icons=true&theme=cobalt2" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzoni99&layout=compact&theme=cobalt2" />
  
 
-<br/>  
+ <br/>
+<img align="right"  src="https://user-images.githubusercontent.com/111071356/188767862-0ca179cb-352c-4a01-896a-9d9940c993db.gif"
 
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=dzonii99&&style=flat-square" align="center" />
-</div>  
-    ![giphy](https://user-images.githubusercontent.com/111071356/188761973-e63a57d3-9f84-4bb5-bb14-90e19c7c9f24.gif)
-
-<br/>  
-
-
-<br />
+ 
+ <br />
