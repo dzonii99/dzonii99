@@ -28,7 +28,7 @@
 
 
 ## Github Stats  
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=dzoni99&show_icons=true&theme=cobalt2" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzoni99&layout=compact&theme=cobalt2" />
+ <img height="137px" src="https://github-readme-stats.vercel.app/api?username=dzoni99&show_icons=true&theme=cobalt2" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzoni99&layout=compact&theme=cobalt2" /></a>
  
 ## Interested in
 <table><tr><td valign="top">
